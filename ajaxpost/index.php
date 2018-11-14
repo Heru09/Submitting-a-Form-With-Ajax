@@ -6,7 +6,7 @@
 
 </head>
 <body>
-    <form action="laporan.php" method="POST" class="ajax">
+    <form action="process.php" method="POST" class="ajax">
     <div><input type="text" name="name" placeholder="Name"></div>
     <div><input type="text" name="email" placeholder="email"></div>
     <div><textarea name="message" placeholder="message"></textarea></div>
