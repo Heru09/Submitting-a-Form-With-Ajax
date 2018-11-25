@@ -9,7 +9,6 @@
     <form action="process.php" method="POST" class="ajax">
     <div><input type="text" name="name" placeholder="Name"></div>
     <div><input type="text" name="email" placeholder="email"></div>
-    <div><input type="pass" name="pass" placeholder="pass"></div>
     <div><textarea name="message" placeholder="message"></textarea></div>
     <input type="submit" value="send">
     </form>   
